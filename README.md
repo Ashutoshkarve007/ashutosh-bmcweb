@@ -1,4 +1,4 @@
-# bmcweb Development Today: Setup & Workflow
+# bmcweb Development Today: Setup & Workflow (07 July 2025)
 
 This document summarizes the steps we performed today to get the OpenBMC **bmcweb** component cloned, built, configured, and deployed on an AST2600 QEMU target, including resolutions for all build-time and deployment issues.
 
